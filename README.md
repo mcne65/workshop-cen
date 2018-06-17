@@ -11,15 +11,15 @@ Amrita Vishwa Vidyapeetham ([Amrita Vishwa Vidyapeetham](https://www.amrita.edu/
 
 ## Workshops conducted by CEN
 
-## [1. AISec 2017 Workshop: Modern Artificial Intelligence (AI) and Natural Language Processing (NLP) Techniques for Cyber Security](https://barathiganesh-hb.github.io/cen-aisec2017/)
+## [1. AISec 2017 Workshop: Modern Artificial Intelligence (AI) and Natural Language Processing (NLP) Techniques for Cyber Security]()
 
-## [2. DeepSci 2017 Workshop: Deep Learning for Healthcare and Financial Data Analytics](https://barathiganesh-hb.github.io/cen-deepsci2017/)
+## [2. DeepSci 2017 Workshop: Deep Learning for Healthcare and Financial Data Analytics]()
 
-## [3. Blockchain 2017 Workshop: Blockchain and Machine Learning](https://barathiganesh-hb.github.io/cen-bcml2017/)
+## [3. Blockchain 2017 Workshop: Blockchain and Machine Learning]()
 
-## [4. A Refresher experiential course on linear algebra and Optimization for Most Modern Signal processing and pattern classification](https://barathiganesh-hb.github.io/cen-msp2017/)
+## [4. A Refresher experiential course on linear algebra and Optimization for Most Modern Signal processing and pattern classification]()
 
-## [5. DeepChem 2017: Deep Learning & NLP for Computational Chemistry, Biology & Nano-materials](https://barathiganesh-hb.github.io/cen-deepchem2017/)
+## [5. DeepChem 2017: Deep Learning & NLP for Computational Chemistry, Biology & Nano-materials]()
 
 ## [6. Data -Driven Modelling](http://nlp.amrita.edu/Data-Driven-Modelling2017/index.html)
 
