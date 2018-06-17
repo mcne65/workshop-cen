@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+Centre for Excellence in Computational Engineering and Networking ([CEN](https://www.amrita.edu/center/computational-engineering-and-networking)),
+Amrita Vishwa Vidyapeetham ([Amrita Vishwa Vidyapeetham](https://www.amrita.edu/)).
 
-You can use the [editor on GitHub](https://github.com/vinayakumarr/workshop-cen/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Shared task conducted by [cyber security lab](https://vinayakumarr.github.io/Cybersecurity-Lab-at-CEN/) CEN
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [Shared task on Detecting Malicious Domain names (DMD 2018)](http://nlp.amrita.edu/DMD2018/)
 
-### Markdown
+## Summer course conducted by CEN
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## [Summer Course on AI & Data Science](https://www.amrita.edu/event/summer-course-ai-date-science)
 
-```markdown
-Syntax highlighted code block
+## Workshops conducted by CEN
 
-# Header 1
-## Header 2
-### Header 3
+## [1. AISec 2017 Workshop: Modern Artificial Intelligence (AI) and Natural Language Processing (NLP) Techniques for Cyber Security](https://barathiganesh-hb.github.io/cen-aisec2017/)
 
-- Bulleted
-- List
+## [2. DeepSci 2017 Workshop: Deep Learning for Healthcare and Financial Data Analytics](https://barathiganesh-hb.github.io/cen-deepsci2017/)
 
-1. Numbered
-2. List
+## [3. Blockchain 2017 Workshop: Blockchain and Machine Learning](https://barathiganesh-hb.github.io/cen-bcml2017/)
 
-**Bold** and _Italic_ and `Code` text
+## [4. A Refresher experiential course on linear algebra and Optimization for Most Modern Signal processing and pattern classification](https://barathiganesh-hb.github.io/cen-msp2017/)
 
-[Link](url) and ![Image](src)
-```
+## [5. DeepChem 2017: Deep Learning & NLP for Computational Chemistry, Biology & Nano-materials](https://barathiganesh-hb.github.io/cen-deepchem2017/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## [6. Data -Driven Modelling](http://nlp.amrita.edu/Data-Driven-Modelling2017/index.html)
 
-### Jekyll Themes
+## [7. Reinforcement Learning (Classical and Deep) ](http://nlp.amrita.edu/rlcd-2018/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vinayakumarr/workshop-cen/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##[8. Modern Signal processing for AI and Data Science](http://nlp.amrita.edu/MSP-for-AI&DS/)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##[9. DMD and Optimization for AI, Data Science and Control Applications](http://nlp.amrita.edu/dmd-ai-ds2018/)
