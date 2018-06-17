@@ -25,6 +25,6 @@ Amrita Vishwa Vidyapeetham ([Amrita Vishwa Vidyapeetham](https://www.amrita.edu/
 
 ## [7. Reinforcement Learning (Classical and Deep) ](http://nlp.amrita.edu/rlcd-2018/)
 
-##[8. Modern Signal processing for AI and Data Science](http://nlp.amrita.edu/MSP-for-AI&DS/)
+## [8. Modern Signal processing for AI and Data Science](http://nlp.amrita.edu/MSP-for-AI&DS/)
 
-##[9. DMD and Optimization for AI, Data Science and Control Applications](http://nlp.amrita.edu/dmd-ai-ds2018/)
+## [9. DMD and Optimization for AI, Data Science and Control Applications](http://nlp.amrita.edu/dmd-ai-ds2018/)
